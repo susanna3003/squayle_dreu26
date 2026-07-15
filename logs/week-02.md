@@ -1,6 +1,6 @@
 # Week 2
 
-**Dates:** 06-20 to 06-24
+**Dates:** 06-22 to 06-26
 
 ## Goals
 Begin implementing features in MerryQuery.
