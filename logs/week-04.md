@@ -1,6 +1,6 @@
 # Week 4
 
-**Dates:** MM-DD to MM-DD
+**Dates:** 06-06 to 06-10
 
 ## Goals
 
