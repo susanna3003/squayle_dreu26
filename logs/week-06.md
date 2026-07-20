@@ -1,6 +1,6 @@
 # Week 6
 
-**Dates:** MM-DD to MM-DD
+**Dates:** 07-20 to 07-24
 
 ## Goals
 
